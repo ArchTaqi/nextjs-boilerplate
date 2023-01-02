@@ -1,0 +1,24 @@
+/* @archtaqi
+/** @archtaqi
+
+# Components
+/src/components/* @archtaqi
+
+# e2e
+
+# Dev app
+
+# Universal
+
+# Documentation
+/documentation/** @archtaqi
+
+# Libs
+/libs/* @archtaqi 
+/libs/testing/** @archtaqi
+
+# Examples
+/libs/* @archtaqi
+
+# github actions
+/.github/workflows/* @archtaqi

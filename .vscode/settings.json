@@ -1,0 +1,17 @@
+{
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true,
+    "source.fixAll.format": true,
+    "source.organizeImports": true
+  },
+  "prettier.stylelintIntegration": true,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "cSpell.words": ["commitlint"]
+}
